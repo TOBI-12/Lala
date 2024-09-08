@@ -1,0 +1,24 @@
+{
+  "name": "private",
+  "version": "9.9.9.9",
+  "description": "xznzone",
+  "main": "zhianz.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node zhianz.js"
+  },
+  "author": "leccystore",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "node-cache": "^5.1.2",
+    "node-fetch": "2.6.1",
+    "readline": "^1.3.0",
+    "parse-ms": "^2.1.0",
+    "pino": "^8.14.1",
+    "util": "^0.12.4"
+  }
+}
